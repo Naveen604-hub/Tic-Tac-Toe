@@ -8,6 +8,6 @@ Technologies Used:
   Project Structure
  TicTacToe/
 
- index.html
- style.css
- script.js
+ 1.index.html
+ 2.style.css
+ 3.script.js
