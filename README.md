@@ -5,9 +5,9 @@ Technologies Used:
 2.CSS
 3.Java Script
 
-Project Structure
-TicTacToe/
-│
-├── index.html
-├── style.css
-└── script.js
+  Project Structure
+ TicTacToe/
+
+ index.html
+ style.css
+ script.js
